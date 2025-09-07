@@ -1,0 +1,6 @@
+Week1
+1-7 Sept 2025
+
+1. Went through basics of maths - derivatives, matrix multiplication, eigen values etc.
+2. Coded matrix multiplication and eigen values calulation
+3. Went through Chapter 1 and 2 of 100pagelmbook and coded examples given.
