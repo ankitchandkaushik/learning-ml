@@ -1,0 +1,195 @@
+Sept-Dec 2025 (leaving out 1M for holidays)
+
+Month 1: Foundations & Classical Machine Learning
+Goal: Build mathematical foundations and master classical ML algorithms
+
+Week 1: Mathematical Foundations
+
+Focus: Linear algebra, calculus basics, statistics fundamentals
+
+Primary Resource: 3Blue1Brown Essence of Linear Algebra series
+
+Time Distribution: 4 hours theory + 2 hours practice
+
+Key Topics: Matrix operations, eigenvalues, gradients, probability distributions
+
+Deliverable: Implement matrix multiplication and eigenvalue decomposition from scratch
+
+Week 2: Python/PyTorch Basics
+
+Focus: PyTorch tensors, operations, NumPy integration
+
+Primary Resource: PyTorch Tutorial: Learning PyTorch with Examples
+
+Time Distribution: 2 hours theory + 4 hours practice
+
+Key Topics: Tensor operations, GPU usage, automatic differentiation
+
+Deliverable: Build your first PyTorch models and understand computational graphs
+
+Week 3: ML Fundamentals I
+
+Focus: Supervised learning, regression, classification
+
+Primary Resource: Andrew Ng Machine Learning Specialization (Course 1)
+
+Time Distribution: 3 hours theory + 3 hours practice
+
+Key Topics: Linear/logistic regression, cost functions, gradient descent
+
+Deliverable: Implement classification algorithms from scratch
+
+Week 4: ML Fundamentals II
+
+Focus: Model evaluation, overfitting, regularization
+
+Primary Resource: Scikit-learn User Guide
+
+Time Distribution: 2 hours theory + 4 hours practice
+
+Key Topics: Cross-validation, bias-variance tradeoff, regularization techniques
+
+Deliverable: Master cross-validation and hyperparameter tuning
+
+Month 2: Deep Learning & Neural Network Mastery
+Goal: Understand neural networks and transformer architecture
+
+Week 5: Deep Learning Introduction
+
+Focus: Neural network basics, backpropagation
+
+Primary Resource: 
+used: StackQuest with Josh Starmer
+not used - fast.ai—Making neural nets uncool again – fast.ai  Practical Deep Learning Lessons 1-2
+
+Time Distribution: 3 hours theory + 3 hours practice
+
+Key Topics: Perceptrons, feedforward networks, backpropagation algorithm
+
+Deliverable: Train neural networks from scratch without frameworks
+
+Week 6: Neural Networks
+
+Focus: CNN concepts, training loops, optimization
+
+Primary Resource: PyTorch Neural Network Tutorial
+
+Time Distribution: 2 hours theory + 4 hours practice
+
+Key Topics: Convolutional layers, pooling, optimization algorithms
+
+Deliverable: Build and optimize image classification models
+
+Week 7: Transformers & Attention
+
+Focus: Attention mechanism, transformer architecture
+
+Primary Resource: The Illustrated Transformer (Jay Alammar)
+
+Time Distribution: 4 hours theory + 2 hours practice
+
+Key Topics: Self-attention, multi-head attention, positional encoding
+
+Deliverable: Implement attention mechanism step-by-step
+
+Week 8: LLM Architecture Foundation
+
+Focus: Encoder-decoder, GPT architecture, tokenization
+
+Primary Resource: "Attention Is All You Need" paper + explanations
+
+Time Distribution: 3 hours theory + 3 hours practice
+
+Key Topics: Transformer blocks, decoder-only models, tokenization strategies
+
+Deliverable: Build transformer encoder and decoder components
+
+Month 3: LLM Implementation & Advanced Applications
+Goal: Build, train, and deploy Large Language Models
+
+Week 9-10: LLM Implementation
+
+Focus: Build simple LLM from scratch, training basics
+
+Primary Resource: Sebastian Raschka "Build LLM from Scratch" (Chapters 1-5)
+
+Time Distribution: 1 hour theory + 5 hours practice
+
+Key Topics: GPT architecture, training loops, text generation
+
+Deliverable: Implement basic LLM architecture and train on small corpus
+
+Week 11-12: Advanced LLM Techniques
+
+Focus: Fine-tuning, alignment, modern techniques
+
+Primary Resource: Sebastian Raschka "Build LLM from Scratch" (Chapters 6-7)
+
+Time Distribution: 2 hours theory + 4 hours practice
+
+Key Topics: Transfer learning, RLHF, instruction tuning
+
+Deliverable: Fine-tune pre-trained models for specific tasks
+
+Week 13: Production & Deployment
+
+Focus: End-to-end project, model deployment
+
+Primary Resource: Hands-on LLM deployment tutorials
+
+Time Distribution: 1 hour theory + 5 hours practice
+
+Key Topics: Model serving, APIs, production deployment with FastAPI/Gradio
+
+Deliverable: Deploy working LLM application to the cloud
+
+Week 14: Portfolio & Advanced Topics
+
+Focus: Documentation, portfolio creation, cutting-edge research
+
+Primary Resource: Recent LLM research papers and implementations
+
+Time Distribution: 6 hours practice
+
+Key Topics: Portfolio development, knowledge consolidation, future learning paths
+
+Deliverable: Complete end-to-end LLM application for your portfolio
+
+Key Learning Resources by Category
+Mathematical Foundations
+3Blue1Brown Essence of Linear Algebra & Calculus
+
+Mathematics for Machine Learning (Deisenroth et al.)
+
+Khan Academy Linear Algebra for additional practice
+
+Programming & ML Tools
+PyTorch official tutorials and documentation
+
+Zero to Mastery Learn PyTorch for Deep Learning  comprehensive course
+
+Scikit-learn documentation for classical ML
+
+Deep Learning & Neural Networks
+fast.ai—Making neural nets uncool again – fast.ai  Practical Deep Learning course (free)
+
+Deep Learning book by Goodfellow, Bengio, and Courville
+
+CS231n Stanford lectures for computer vision concepts(may be)
+
+Transformers & LLMs
+"Attention Is All You Need" original paper
+
+The Illustrated Transformer by Jay Alammar
+
+Sebastian Raschka "Build a Large Language Model (From Scratch)"
+
+DeepLearning.AI: Start or Advance Your Career in AI  "How Transformer LLMs Work" course
+
+Hugging Face Transformers and LLM course and documentation
+
+ 
+
+GOAL
+
+able to fine tune small open source LLM with SFT. 
