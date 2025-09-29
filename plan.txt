@@ -39,7 +39,7 @@ Key Topics: Linear/logistic regression, cost functions, gradient descent
 
 Deliverable: Implement classification algorithms from scratch
 
-Week 4: ML Fundamentals II
+Week 4: ML Fundamentals II (Delayed)
 
 Focus: Model evaluation, overfitting, regularization
 
