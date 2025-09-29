@@ -4,3 +4,21 @@ Week1
 1. Went through basics of maths - derivatives, matrix multiplication, eigen values etc.
 2. Coded matrix multiplication and eigen values calulation
 3. Went through Chapter 1 and 2 of 100pagelmbook and coded examples given.
+
+Week2
+8-14 Sept 2025
+
+1. Completed PyTorch basics
+
+Week3
+15-21 Sept 2025
+
+1. Got busy with other work not much progress
+
+Week4
+22-28 Sept 2025
+
+1. Implemented Linear Regression and Logistic Regression from scratch
+2. Started Neural Networks as well, learned about backpropagation and math behind it.
+
+
