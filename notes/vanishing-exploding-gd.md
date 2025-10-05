@@ -24,5 +24,4 @@ This document summarizes the key concepts from `vanishing-exploding-gd.txt` rega
 - See `xavier.md` for details on Xavier initialization.
 - Further reading: Deep Learning textbooks, research papers on gradient issues.
 
----
-*This markdown file was auto-generated from the notes in `vanishing-exploding-gd.txt`.*
+
