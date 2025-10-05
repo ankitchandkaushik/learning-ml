@@ -1,0 +1,3 @@
+1. Why K and V are cached in Transformer but not Q? 
+2. Adam optimiser
+3. Why add paddings input of a tranformers??
